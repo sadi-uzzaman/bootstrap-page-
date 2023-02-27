@@ -1,0 +1,140 @@
+.banner{
+    background-image: url(./images/bannar\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+
+}
+.row-1 {
+    height: 100%;
+    width: 100%;
+    margin-top: 0rem;
+    padding-top: 20rem;
+}
+.logo-img {
+    width: 10px;
+}
+.img{
+    padding: 5px;
+    width: 150px;
+}
+.body-text{
+    white-space:normal;
+    background-color: #FFF;
+    text-align: center;
+}
+.body-text-heading {
+    text-align: justify;
+}
+.heading {
+    color: #253B7E;
+    font-family: "gotcha", Sans-serif;
+    font-size: 80px;
+    font-weight: 500;
+}
+
+.body-text-body {
+    font-size: 20px;
+    margin:auto;
+    padding: 10px;
+}
+.title{
+    height:auto;
+    width: auto;
+}
+.title_text{
+    color: #253B7E;
+    font-family: "gotcha", Sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+}
+.gift_heading h2{
+    color: #253B7E;
+    font-family: "gotcha", Sans-serif;
+    font-size: 80px;
+    font-weight: 500;
+}
+.gift_heading{
+    padding: 60px 0px 160px;
+    text-align: center;
+}
+.gift_heading p{
+    text-align: center;
+ }
+ .gift_card{
+    text-align: center;
+ }
+ .gift_card img{
+   height: 350px;
+   width: 100%;
+ }
+ .gift_card h4{
+    color: #253B7E;
+    font-family: "gotcha", Sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+ }
+ .gift_card p{
+    font-family: "gotcha", sans-serif;
+    font-size: 20px;
+ }
+ .gift_card a{
+    background-color: red;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 30px;
+ }
+ .section{
+    padding-top: 50px;
+ }
+.mid_section{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color:aliceblue;
+}
+.donation_section{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+.row{
+    background-color: #FFF;
+}
+.donation_img {
+    height: 100%;
+    width: 100%;
+}
+.donation_img_description p{
+    padding-top: 35px;
+    margin-left: 50px;
+    font-family: "gotcha", sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: #FFF;
+    line-height: 1.6;
+}
+.donation_footer{
+    height: 50%;
+    width: 100%;
+}
+.donation_footer p{
+    background-color: blue;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    letter-spacing: 0.2rem;
+}
+
+.footer_text_bar{
+    color:#FFF;
+    width: 100%;
+    background-color:#282828;
+    display: flex;
+    text-decoration: none;
+}
